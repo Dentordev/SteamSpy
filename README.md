@@ -15,6 +15,8 @@ such as using a webhook to track a user, (take whatever code your looking for.)
 - There are no sign ups to using this tool.
 - Everything is AI-Free, code was written by a human and not a robot.
 
+- Everything Except For AsyncTor is Unlicensed. Use it as you wish.
+
 ## TODOS
 - Track Game User is playing on if user is online
 
