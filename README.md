@@ -13,6 +13,7 @@ a path enviornment variable if your own windows.
 - Running as your own seperate python library,
 such as using a webhook to track a user, (take whatever code your looking for.)
 - There are no sign ups to using this tool.
+- Everything is AI-Free, code was written by a human and not a robot.
 
 ## TODOS
 - Track Game User is playing on if user is online
