@@ -1,0 +1,6 @@
+uvloop; platform_system != "Windows"
+winloop; platform_system == "Windows"
+aiohttp
+aiohttp-socks
+typer
+aiofiles
