@@ -5,7 +5,7 @@ This used to be an old script I had from 2023 that I remodified & modernized.
 
 ## Features
 - Built-in Asynchronous Tor Library froked from stem as long as tor.exe is mapped as 
-a path enviornment variable if your own windows.
+a path enviornment variable if you own windows.
 - Exteremely Minimal Amounts of Code
 - Scraping Target's Friends
 - Seeing if User is a Private Account
